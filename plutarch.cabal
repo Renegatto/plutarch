@@ -161,7 +161,6 @@ test-suite examples
   other-modules:
     Examples.ConstrData
     Examples.LetRec
-    Examples.Lift
     Utils
 
   build-depends:
